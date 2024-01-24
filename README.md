@@ -6,7 +6,7 @@ In 2023, we set out to answer one of the most persistent unanswered questions in
 
 In this repo we are hosting a suite of materials related with the work, starting with first and foremost with the list of solo-staker mappings. 
 
-*This list has been curated by [Rated](https://rated.network). Reach out to us on x.com [@ratedw3b](https://twitter.com/ratedw3b), and leave your comments via feedback.rated.network or on the issues section of this repo. You can find us onchain at ratedw3b.eth.*
+*This list has been curated by [Rated](https://rated.network), supported with a grant from [LEGO](https://lego.lido.fi/). Reach out to us on x.com [@ratedw3b](https://twitter.com/ratedw3b), and leave your comments via feedback.rated.network or on the issues section of this repo. You can find us onchain at ratedw3b.eth.*
 
 ## Properties of the list
 
