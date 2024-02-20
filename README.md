@@ -4,6 +4,8 @@ This repo is home to Rated’s “solo-staker filter” for the Ethereum Beacon 
 
 In 2023, we set out to answer one of the most persistent unanswered questions in the Ethereum staking ecosystem; “how many solo stakers are there?” We presented our methodology in this [blog post](https://blog.rated.network/blog/solo-stakers), arriving at the finding that ~6.5% of the ETH staked on the Beacon Chain is mapping to solo stakers. 
 
+The filter was further improved in February 2024, after receiving high quality feedback from the Starknet airdrop. The updated filter increased the estimation to 7.2% of the Beacon Chain–as of validator index height 500k.
+
 In this repo we are hosting a suite of materials related with the work, starting with first and foremost with the list of solo-staker mappings. 
 
 *This list has been curated by [Rated](https://rated.network), supported with a grant from [LEGO](https://lego.lido.fi/). Reach out to us on x.com [@ratedw3b](https://twitter.com/ratedw3b), and leave your comments via feedback.rated.network or on the issues section of this repo. You can find us onchain at ratedw3b.eth.*
@@ -14,7 +16,7 @@ The first version of the list you will find in this repo, considers the **first 
 
 *Below we outline the variables included in the first release and how to interpret them.*
 
-The [dataset](solo_stakers_v0.csv) contains the following columns:
+The [dataset](solo_stakers_v1.csv) contains the following columns:
 - `deposit_address`: the address used to initiate the transaction to the deposit contract.
 - `confidence`: the aggregate confidence score for that deposit address. 
 - `deposit_address_validator_count`: total number of validators under the deposit address in the examined dataset.
